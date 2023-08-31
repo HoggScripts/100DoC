@@ -1,2 +1,5 @@
-# Day1-100DoC
- Day 1
+# 100DoC
+
+Projects:
+
+Day 1: Band Name Generator
