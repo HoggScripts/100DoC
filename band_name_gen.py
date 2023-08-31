@@ -1,3 +1,4 @@
+print("Welcome to the band name generator!\n")
 
 c = input("What is the name of the city you grew up in? \n")
 
